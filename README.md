@@ -6,9 +6,9 @@
 
 ## Education:
 
-#### 1. [Polytechnic Sriwijaya](https://www.polsri.ac.id) | Informatics Management | Palembang `2021-Now`
+#### 1. [Polytechnic Sriwijaya](https://www.polsri.ac.id) | Informatics Management | Palembang `2021 - Now`
 
- #### 2. [SMK MUHAMMADIYAH 1 PALEMBANG](https://www.smkmuhammadiyah1plg.sch.id) | TKJ | Palembang `2017-2020`
+#### 2. [SMK MUHAMMADIYAH 1 PALEMBANG](https://www.smkmuhammadiyah1plg.sch.id) | TKJ | Palembang `2017 - 2020`
 
 ### Languages and Tools:
 
