@@ -1,8 +1,8 @@
 # Hi there, I'm Ewin👋
 ## About me:
-- 🔭 I’m currently student at [Polytechnic Sriwijaya](https://www.polsri.ac.id)
+- 🖋️ I’m currently student at [Polytechnic Sriwijaya](https://www.polsri.ac.id)
 - 💬 Ask me about anything
-- 📫 How to reach me: apriansyahherwin@gmail.com
+- 📧 How to reach me: apriansyahherwin@gmail.com
 
 
 ## Education:
